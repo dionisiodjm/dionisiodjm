@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [GIS for Village Location in Administrative Post in Ermera](https://finalcourse.id)
 
-- 🤝 I’m looking for help with [GIS for Course Locations in Aileu](https://sigkursus.finalcourse.id)
+- 🤝 I’m looking for help with [GIS for Course Locations in Aileu](https://kursus.finalcourse.id)
 
 - 👨‍💻 All of my projects are available at [https://portofolio.finalcourse.id](https://portofolio.finalcourse.id)
 
